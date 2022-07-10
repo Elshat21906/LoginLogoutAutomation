@@ -19,7 +19,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
 
         //glue gives path to the package of the step_definitions
-        glue = "com/cydeo/step_definitions",
+        glue = "com/LoginLogoutAutomation/Step_Definitions",
 
         // dryRun determines if we want to execute the step_definitions or not
         // if dryRun is true: dryRun is turned on, and step definitions are turned off (will not run)
