@@ -14,7 +14,7 @@ Feature: upgenix.net - login functionality
 
     @salesmanager
     Examples: We are going to use these valid salesmanager usernames and passwords to login as below
-    |        username      |  password  |
+    |        username       |  password  |
     |salesmanager5@info.com |salesmanager|
     |salesmanager6@info.com |salesmanager|
     |salesmanager7@info.com |salesmanager|
