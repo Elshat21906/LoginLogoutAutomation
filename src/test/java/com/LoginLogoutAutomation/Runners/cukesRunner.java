@@ -30,7 +30,7 @@ import org.junit.runner.RunWith;
         // What are tags and why we use them?
         // Tag allows us to create different scenario suites or groups to run
         // we can include, or exclude different feature files or scenarios using tags.
-        tags = ""
+        tags = "@salesmanager"
 
 
 )
