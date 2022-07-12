@@ -52,3 +52,6 @@ Feature: upgenix.net - login functionality
       |posmanager19@info.com | posmanager |
       |posmanager20@info.com | posmanager |
 
+
+
+
